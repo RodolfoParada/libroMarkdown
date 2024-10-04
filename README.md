@@ -9,7 +9,7 @@
 
 ### -Finalmente se debe ir crear una page
 ### En none se debe selecionar main y root luego save. y esperar a que se cree gitpage
-### ejemplo
+#### -ejemplo
 ![image](https://github.com/user-attachments/assets/1762b24c-04e4-41f1-b154-726c8291ed1f)
 
 ### Video de referencias https://www.youtube.com/watch?v=Fu6IdhpuLkk
