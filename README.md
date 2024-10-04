@@ -8,6 +8,7 @@
 ### ![image](https://github.com/user-attachments/assets/18f1d1e9-0c97-412c-b0d9-6ec92314446c)
 
 ### -Finalmente se debe ir crear una page
+### En none se debe selecionar main y root luego save. y esperar a que se cree gitpage
 ### Video de referencias https://www.youtube.com/watch?v=Fu6IdhpuLkk
 ### Guia de Markdown https://www.markdownguide.org/
 
