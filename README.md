@@ -4,6 +4,7 @@
 ### -Se debe crear el archivo Readme
 ### -Se debe crear un archivo con el nombre _config.yml
 ### -Dentro del archivo _confing.yml se debe escribir theme: jekyll-theme-merlot
+#### -ejemplo como debe quedar
 ### ![image](https://github.com/user-attachments/assets/18f1d1e9-0c97-412c-b0d9-6ec92314446c)
 
 ### -Finalmente se debe ir crear una page
