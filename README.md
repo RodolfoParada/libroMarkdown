@@ -12,6 +12,8 @@
 #### -ejemplo
 ![image](https://github.com/user-attachments/assets/1762b24c-04e4-41f1-b154-726c8291ed1f)
 
+# otros temas http://jekyllthemes.org/
+
 ### Video de referencias https://www.youtube.com/watch?v=Fu6IdhpuLkk
 ### Guia de Markdown https://www.markdownguide.org/
 
