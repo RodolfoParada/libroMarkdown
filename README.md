@@ -25,3 +25,6 @@ conseguirInfoUsuario();
 conseguirDataDelCliente();
 conseguirRecordDelCliente();
 ```
+#### se puede hacer varias vistas siguiendo la siguiente estructura 
+##### con visual studio se clona el archivo y se crear carpetas al nivel del README.cd
+##### en las carpetas se crean un archivo README.cd
